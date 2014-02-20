@@ -15,7 +15,6 @@ CUSTOM CSS CREATED BY ANDREA
 .page-title {
     font-size: 4em;
     margin-top: 1em;
-	margin-bottom:0.7em;
 }
 
 /*
@@ -595,7 +594,7 @@ p {
   margin: 0 0 10.5px;
 }
 .lead {
-  margin-bottom: 21px;
+  margin-bottom: 50px;
   font-size: 17px;
   font-weight: 200;
   line-height: 1.4;
