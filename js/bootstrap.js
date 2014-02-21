@@ -14,6 +14,7 @@ if (typeof jQuery === 'undefined') { throw new Error('Bootstrap\'s JavaScript re
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  * ======================================================================== */
 
+$('.dropdown-toggle').dropdown()
 
 +function ($) {
   'use strict';
